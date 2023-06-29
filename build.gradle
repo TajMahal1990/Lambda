@@ -15,9 +15,7 @@ dependencies {
     testImplementation 'org.testng:testng:7.1.0'
 }
 
-test {
-    useJUnitPlatform()
-}
+
 
 compileKotlin {
     kotlinOptions.jvmTarget = '1.8'
