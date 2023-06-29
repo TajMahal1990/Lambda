@@ -2,7 +2,7 @@ import org.junit.Test
 
 import org.junit.Assert.*
 import org.junit.Before
-import org.testng.annotations.Test
+//import org.testng.annotations.Test
 import ru.netology.Comment
 import ru.netology.Post
 import ru.netology.PostNotFoundException
